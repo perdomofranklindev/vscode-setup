@@ -4,7 +4,8 @@ Welcome to the ultimate Visual Studio Code setup featuring an incredible and nic
 
 ## Theme Preview
 
-![Theme Preview](https://placehold.co/600x400/333333/FFFFFF?text=Theme+Preview)
+<img width="1303" height="921" alt="Screenshot From 2025-08-10 15-31-14" src="https://github.com/user-attachments/assets/26c216c0-0fa7-45fd-aa34-5a12436ea0b9" />
+
 
 _Actual theme appearance may vary based on your preferences and extensions._
 
